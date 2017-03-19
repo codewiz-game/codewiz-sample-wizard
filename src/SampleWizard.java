@@ -4,7 +4,7 @@ public class SampleWizard extends Wizard {
 	
 	@Override
 	public void onIdle() {
-		
+		move(50);
 	}
 	
 	@Override
